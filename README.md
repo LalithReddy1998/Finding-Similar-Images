@@ -19,10 +19,7 @@ will some takes time.
 
 
 	  
-Step_3: Open "Image_clustering" 
-	open the file in jupyter "google colab"
-	
-This part of code will seperate the images based on clusters.
+
 
 	
 	
